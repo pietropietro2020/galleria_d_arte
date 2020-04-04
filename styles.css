@@ -41,6 +41,7 @@ h1 {
 	height: 150px;
 	margin: 10px 15px 10px 0;
 	position: relative;
+	border-radius: 150px;
 }
 /*#abc {
 	font-size: 30px;
