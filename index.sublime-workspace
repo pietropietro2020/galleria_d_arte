@@ -1,0 +1,460 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"visi",
+				"visible-xs"
+			],
+			[
+				"gly",
+				"glyphicon"
+			],
+			[
+				"visible",
+				"visible-lg"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"auto",
+				"autore1"
+			],
+			[
+				"au",
+				"autore"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"gl",
+				"glyphicon"
+			],
+			[
+				"col",
+				"col-sm-4"
+			],
+			[
+				"hidden",
+				"aria-hidden"
+			],
+			[
+				"g",
+				"glyphicon-search"
+			],
+			[
+				"bak",
+				"background-color\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"j",
+				"jpg"
+			],
+			[
+				"bo",
+				"content-box\tbox-sizing"
+			],
+			[
+				"box-",
+				"box-shadow\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"backgrou",
+				"background\tproperty"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"ali",
+				"vertical-align\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"align",
+				"align-self\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"collaps",
+				"collapsable-nav"
+			],
+			[
+				"Fo",
+				"font-size\tproperty"
+			],
+			[
+				"AL",
+				"alt\tAttr"
+			],
+			[
+				"A",
+				"alt\tAttr"
+			],
+			[
+				"cen",
+				"CENOTAFIO"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"una",
+				"unamattina"
+			],
+			[
+				"lo",
+				"loop\tAttr"
+			],
+			[
+				"scrit",
+				"scritte"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"a",
+				"auto\toverflow"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 192.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Utente/Desktop/ciao/java/java/script.js",
+		"/C/Users/Utente/Desktop/ciao/java/index.html",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/index.html",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/css/styles.css",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/crocifissione-di-san-pietro.html",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/cenotafio-di-newton.html",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/bonaparte-valica-il-san-bernardo.html",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/basilica-di-superga.html",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/amore-e-psiche.html",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/opere.html",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/info.html",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/david-con-la-testa-di-golia.html",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/famiglia-di-filippo-IV.html",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/la-morte-della-vergine.html",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/il-giuramento-degli-orazi.html",
+		"/C/Users/Utente/Desktop/ciao/coursera/singola-materia.html",
+		"/C/Users/Utente/Desktop/ciao/coursera/css/styles.css",
+		"/C/Users/Utente/Desktop/ciao/coursera/professori.html",
+		"/C/Users/Utente/Desktop/ciao/coursera/index.html",
+		"/C/Users/Utente/Desktop/ciao/prove/css/styles.css",
+		"/C/Users/Utente/Desktop/ciao/prove/sjkj.html",
+		"/C/Users/Utente/Desktop/ciao/prove/css/bootstrap.min.css",
+		"/C/Users/Utente/Desktop/ciao/prove/css/bootstrap.css",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/css/bootstrap.css",
+		"/C/Users/Utente/Desktop/ciao/coursera/images/professore (1).jpg",
+		"/C/Users/Utente/Desktop/ciao/coursera/images/jumbotron.png",
+		"/C/Users/Utente/Documents/GitHub/pietropietro2020.github.io/index1.html",
+		"/C/Users/Utente/Documents/GitHub/pietropietro2020.github.io/style.css",
+		"/C/Users/Utente/Desktop/ciao/prove/eefs.html",
+		"/C/Users/Utente/Desktop/ciao/prove/styles.css",
+		"/C/Users/Utente/Desktop/ciao/prove/Responsive Designs.html",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/artee.png",
+		"/C/Users/Utente/Desktop/ciao/coursera/images/scuola.jpg",
+		"/C/Users/Utente/Desktop/ciao/coursera/images/scuola.png",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/grid-before.html",
+		"/C/Users/Utente/Desktop/ciao/coursera/images/logo.png",
+		"/C/Users/Utente/Desktop/ciao/coursera/images/copyright.jpg",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/unamattina.mp3",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/images/nasa(7).png",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/images/amore.jpg",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/images/aep.jpg",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/images/Amore.htm",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/images/nasa.jpg",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/download.png",
+		"/C/Users/Utente/Desktop/ciao/bootstrap prova/css/s",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/prove/Responsive Designs.html",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap prova/index.html",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap prova/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap prova/bootstrap-3.3.7-dist/css/bootstrap.min.css",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap prova/bootstrap-3.3.7-dist/js/script.js",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap prova/bootstrap-3.3.7-dist/css/styles.css",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap prova/bootstrap-3.3.7-dist/css/bootstrap.css.map",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap prova/js/script.js",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap prova/css/styles.css",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/prove/index.html",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/css/bootstrap.min.css",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/js/bootstrap.bundle.js",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/js/bootstrap.bundle.js.map",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js.map",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/js/bootstrap.js",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/js/bootstrap.js.map",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/css/bootstrap.css",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap-4.4.1-dist/bootstrap-4.4.1-dist/css/bootstrap.min.css.map",
+		"/C/Users/Utente/Downloads/bootstrap-4.4.1/bootstrap-4.4.1/README.md",
+		"/C/Users/Utente/Desktop/pietropietro2020.github.io-master/bootstrap-4.4.1-dist.zip",
+		"/C/Users/Utente/Documents/GitHub/pietropietro2020.github.io/css",
+		"/C/Users/Utente/Documents/GitHub/pietropietro2020.github.io/floating-element.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
